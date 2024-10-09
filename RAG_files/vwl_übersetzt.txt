@@ -1,0 +1,1058 @@
+Offenburg University of Applied Sciences
+Economics
+Outline, overviews, exercises Offenburg University of Applied Sciences
+General information about the course
+The aim of the course is to give students an introductory overview of the scientific principles of economics, to create an understanding of the basic models of supply and demand and to demonstrate macroeconomic relationships. The focus is on providing an orientation framework for classifying economic issues. The structure and overviews form the framework of the lecture, but only reflect a fraction of the lecture content and are not a substitute for attending the lecture. The literature provided is recommended as preparation. The practice questions are for self-assessment. 2 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+References
+The lecture mainly refers to the following textbooks (primary literature):
+Roth, S. J. (2016): Economics for beginners, 5th edition, Konstanz and Munich.
+Mankiw , N. G./Taylor, M. P. (2018): Basics of economics, 7th edition, Stuttgart.
+Supplementary:
+Bartling, H./ Luzius , F./Fichert , F: (2019): Basics of economics, 18th edition, Munich.
+Bofinger, P. (2015): Basics of economics, 4th edition, Hallbergmoos.
+Beck, H. (2014): Behavioral Economics, Wiesbaden.
+Hermann, M. (2016): Workbook Basics of economics, 5th edition, Stuttgart.
+3 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Structure
+Part 1: Introduction to economics
+Part 2: The theory of households
+Part 3: The theory of companies
+Part 4: Market equilibrium
+Part 5: The market failure theory
+Part 6: Macroeconomic data
+Part 7: Long-term real economic development
+Part 8: Interest rates, money and prices
+Part 9: Economic fluctuations
+Part 10: Selected current topics for further study and discussion
+4 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Part 1: Introduction to economics
+Key points:
+•What is economics
+•Economic rules for getting started
+•History of economics, social market economy
+•Differentiation between micro and macroeconomics
+•Methodological approach
+•Utility maximization, shortages and opportunity costs
+•Marginal consideration
+•Exchange, trade, comparative advantages and relative prices
+•Pareto criterion and allocative efficiency
+•Function of prices and competition
+5 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+What is economics?
+Economics is the science of managing scarce social resources. There are three basic questions:
+•What goods and services should be produced?
+•How much of them should be produced?
+•Who should receive the goods and services produced?
+
+The scarce resources (production factors) are roughly divided into three categories:
+•Land in the sense of natural resources,
+•Labor in the sense of mental and physical human performance that goes into production,
+•Capital in the sense of real capital, e.g. equipment and facilities that are needed to produce goods and services.
+See Mankiw /Taylor (2018), pp. 1 -3.
+6 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Economic rules to get you started
+Economics deals with human decision-making behavior, e.g. 
+how much work is done, what is bought, how much is saved. 
+•All people are faced with alternatives that need to be weighed up (“There is no such thing as a free
+lunch”).
+•The cost of a good consists of what you give up in order to get something else (opportunity costs). Decisions require comparing the costs and 
+benefits of alternative actions. 
+•Rational decision-makers think in terms of marginal changes.
+•People react to incentives, e.g. taxes and subsidies. 
+•Trade can make everyone better off.
+•Markets are usually good for organizing economic life, with price being the instrument for coordinating economic activities.
+•Governments can sometimes improve market outcomes, e.g. in the event of market failure. •The standard of living of a country depends on its ability to produce goods and services.
+See Mankiw /Taylor (2018), pp. 3 -12.
+7 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+History of economics
+Economics is a sub-discipline of economics, which is part of the humanities. 
+•Predecessor: Aristotle (384 –322 BC): He emphasized the importance of 
+private property and contrasted the supply economy with the commercial economy.
+•Mercantilism (16th – 18th century): Basic idea: wealth instead of justice. Representatives: 
+Jean Bodin, John Locke, John Law (invented paper money).
+•Physiocracy (ca. 1750): Basic idea: nature instead of culture. Representative: Fran çois Quesnay 
+(developed the first circular flow model). 
+•Classics (18th – 19th century): Basic idea: innate right to personal freedom.
+Representatives: Adam Smith (main work: An Inquiry into the Nature and Causes of the Wealth of Nations ), David Ricardo, John Stewart Mill.
+•Neoclassicists (19th - 20th century): Basic idea: Marginal utility is the determining factor for the price. Representatives: L éon Walras (equilibrium model), Vilfredo Pareto 
+(welfare economics), Arthur Pigou .
+•20th century: Representatives: John Maynard Keynes (idea of ​​stimulating demand 
+by the state), Paul Samuelson , Milton Friedman, especially in Germany: Walter 
+Eucken (intellectual father of the social market economy) 
+8 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Social market economy
+The social market economy embodies an economic model that was implemented in Germany from 1948 onwards against the background of market failure by A. Müller-Armack and L. Erhard. 
+It takes up the demands of ordoliberalism (Freiburg School, W. Eucken). At its core, it is about the state guaranteeing a functioning competitive order and a social, but market-compliant orientation of economic policy. 
+Where market failure is to be feared, the state should intervene while respecting the 
+subsidiarity principle. It states that the individual is as far as possible 
+responsible for his own life, but can count on state solidarity in an emergency. Personal responsibility should be strengthened and the solidarity community should be protected from being overburdened. 
+9 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Discussion
+1. "Dare to be more Adam Smith" (FAZ, August 21, 2020)
+➢Thesis: "The economy in Europe must become more productive."
+➢According to Adam Smith, there is a positive connection between a country's labor productivity and its prosperity.
+2. "What economists owe to David Hume" (FAZ, November 13, 2020)
+➢Thesis: Hume's claim that economic development should serve to improve the situation of broad sections of the population is still relevant.
+➢Hume as an economic order economist: "Like other thinkers of the Scottish Enlightenment, Hume also saw the need for institutions to direct the self-interested actions of individuals into socially acceptable channels."
+10 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Differentiation between micro and macroeconomics
+Microeconomics examines the economic behavior of individual economic entities and thus equilibria or imbalances in individual markets. 
+The basic question of microeconomics is: How do markets work and where do they fail? This involves the optimal allocation (distribution) of given, scarce resources to different uses. 
+Macroeconomics examines macroeconomic variables (e.g. total consumption, gross domestic product) and thus the equilibrium or imbalance of macroeconomic supply and macroeconomic demand. Since macroeconomic variables are influenced by economic policy, macroeconomics provides theoretical foundations for economic policy decisions. 
+11 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Methodological approach
+Economics asks about dependencies (for example, how does size A depend on size B?). 
+Dependencies can be represented mentally using functions. 
+The assumed explanatory relationships are called hypotheses. 
+A mental system of effects that reduces the complexity of reality to a system of hypotheses and definitions is a model. When creating models, economists often use the ceteris paribus clause, in which all influencing factors, except for the factor being examined, are assumed to be constant. 
+Models contain several variables, e.g. demand quantity, prices. The 
+demand quantity, for example, is an endogenous variable, the value of which is determined by the model. In this case, the price is an exogenous variable, the value of which is determined outside the model. It is important to distinguish between cause and effect. Is 
+a change in price the cause of a change in the quantity demanded 
+or does it affect the quantity demanded?
+See Mankiw /Taylor (2018), pp. 26 -35.
+12 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Utility Maximization and Scarcity
+13 Prof. Dr. Sybille SchwarzEconomic theory assumes that individuals maximize their utility, focusing on an ordinal concept of utility. At the same time, it is assumed that individuals behave rationally, i.e. consistently to maximize utility. Scarcity is the basic problem of people. Economics in the narrower sense is the science of managing scarce resources within society. For the economist, unlike the accountant, costs are not just the expenditure in monetary units. Costs arise from foregoing the utility of the alternative use (opportunity). Opportunity costs express what must be given up in order to obtain something else. This is not just about the use of money, but about all resources for which a decision is made between alternatives, e.g. time. See Roth (2016), pp. 6 -12. Offenburg University of Applied Sciences
+Discussion
+We do not always act rationally! Some typical analysis errors (keyword: 
+behavioral economics), e.g.
+➢Perception distortions: through framing (influencing decisions 
+through the type and context of the problem formulation), anchoring (influencing the 
+decision through currently available information despite limited relevance
+➢Status quo distortion: negative assessment of a deviation from the status quo 
+despite its advantages
+➢Sunk costs: influencing the decision through the costs of previous and irreversible decisions 
+➢Confirmation bias: only information that corresponds to expectations is perceived
+See Mankiw/Taylor (2018), pp. 164 -166.
+14 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Exercise on opportunity costs
+Farmer Michel gives guitar lessons for €20/hour. In one day he spends 10 hours planting the cuttings he bought for €200, which he wants to sell for €400 in the fall. What profit (accounting and economic in terms of opportunity costs) has he made?
+15 Prof. Dr. Sybille Schwarz
+Accounting: 400-200 = €200
+Economic (opportunity costs): 400-200-(20*10) = €0 Offenburg University of Applied Sciences
+Marginal consideration
+16 Prof. Dr. Sybille SchwarzSee Roth (2016), p. 12 -14. Many decisions relate to small (marginal) changes to existing activities. Benefits and costs per unit often differ depending on how many units have already been consumed or invested. For a specific supply or demand decision, the marginal benefit (additional benefit of the marginal change) and the marginal costs (additional costs of the marginal change) are then relevant. Discussion question: Is the marginal benefit of a glass of water large or small? Offenburg University of Applied Sciences
+Exchange, trade, comparative advantages and relative prices
+17 Prof. Dr. Sybille SchwarzSee Roth (2016), pp. 14 -20.Exchange and trade enable specialization in activities that one can do better than other activities. Comparative advantages are crucial, not absolute advantages. For this purpose, the opportunity costs are expressed as relative prices in units of the other good. The theory of comparative cost advantages goes back to the English economist David Ricardo (1772 -1823). Practice example:
+Farmer Meier and Schmitt are both able to produce both meat and potatoes, but Meier is less skilled in both areas: Meier needs Schmitt to produce 1 kg of potatoes 10 hours 1 kg of potatoes 5 hours 1 kg of meat 20 hours 1 kg of meat 15 hours Assumption: initially no exchange relationships, available working time: 100 hours. Meier decides to use 60 hours for potato production and the rest for meat, Schmitt uses 40 hours for potato production and the rest for meat. Offenburg University of Applied Sciences
+Comparative advantages – continued exercise example
+In 100 hours, Meier produces, for example In 100 hours, Schmitt produces, for example 
+? kg of potatoes and ? kg of meat ? kg of potatoes and ? kg of meat
+Intermediate result: absolute cost advantages in both areas for ?
+Relative prices for Meier Relative prices for Schmitt 
+1 kg of potatoes = ½ kg of meat 1 kg of potatoes = ?
+1 kg of meat = ? 1 kg of meat = ?
+Intermediate result: Measured in relative prices, meat is cheaper for farmer Meier.
+Meier therefore specializes in meat production and Schmitt in potatoes.
+In 100 hours, Meier produces, for example In 100 hours, Schmitt produces, for example 
+? kg meat 17 kg potatoes (85 hours) and 1 kg meat (15 hours)
+Assumption: An exchange ratio of 2.5 kilos of potatoes for one kilo of meat is agreed upon, 
+whereby Meier exchanges three kilos of meat and receives 7.5 kilos of potatoes in return.
+After the exchange, Meier has e.g. After the exchange, Schmitt has e.g. 
+7.5 kg of potatoes and ? kg of meat ? kg of potatoes = ? meat
+18 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Pareto criterion and allocative efficiency
+19 Prof. Dr. Sybille SchwarzSee Roth (2016), p. 20 -25The Pareto criterion as an efficiency criterion assesses the welfare of a society. Even if an interpersonal comparison of benefits is excluded, a measure always increases the welfare of a group under consideration if it increases the benefit of at least one person without reducing the benefit of another person.
+
+Allocative efficiency ensures that the allocation of scarce resources to specific uses is achieved with as little sacrifice of other beneficial uses of resources as possible.
+
+Pareto efficiency is achieved when there is no longer a measure that at least one individual welcomes and against which no one has any objections.
+
+. Offenburg University of Applied Sciences
+Function of prices and competition
+20 Prof. Dr. Sybille SchwarzWith decentralized coordination, millions of suppliers and buyers decide 
+what, when, how, by whom and for whom something is produced. 
+These decisions are coordinated by the price mechanism. The task of 
+prices is to balance supply and demand (market balancing function). 
+Price changes indicate that the level of scarcity of a good has changed 
+(signal function). 
+A perceived signal provides incentives for behavioral change (incentive function). 
+As a result of the incentives set by rising or falling prices, 
+production factors are reallocated (steering or allocation function). 
+As a result, market economies have the appropriate structural adjustment flexibility 
+and consumer sovereignty.
+. Offenburg University of Applied Sciences
+Part 1: Questions for the self-test
+21 Prof. Dr. Sybille Schwarz1.Give an example of the opportunity costs of attending a football match 
+of SC Freiburg. 
+2.What does the invisible hand of the market do?
+3.Briefly describe the three production factors of economics.
+4.What is meant by the following sentence: "There is no such thing as a free lunch"
+5.Which of the following statements is true or false:
+•Macroeconomics examines individual economic behavior.
+•Walter Eucken was concerned with the state guaranteeing a functioning 
+competitive order.
+•J. M. Keynes wanted to stimulate a lack of supply through government spending.
+. Offenburg University of Applied Sciences
+Part 1: Answers to the self-test
+22 Prof. Dr. Sybille Schwarz. Offenburg University of Applied Sciences
+Part 2: The theory of households
+Key points:
+•Households in the goods and labor market
+•Budget constraint and budget line
+•Preferences
+•Indifference curves
+•Optimal demand decision
+•Changes in the parameters of individual demand
+•Factors influencing demand
+•Price and income elasticities of demand
+Key questions:
+What does the consumer want and what can he afford?
+What factors determine household demand?
+23 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Households on the goods and labor market
+24 Prof. Dr. Sybille SchwarzHouseholds are the smallest economic units that are considered in economic analysis. They are demanders, i.e. consumers, on the goods and service markets. At the same time, in their function as employed persons, they are suppliers on the labor market. See Roth (2016), p. 28 -29
+Illustration: Offenburg University of Applied Sciences
+Budget constraint and budget line
+25 Prof. Dr. Sybille SchwarzThe theory of households examines the question of what individuals can afford with the help of the instrument of budget constraint.
+The budget line indicates all combinations of goods of x and y that are achievable with a given budget of m and whose consumption does not leave any scarce resources unused. The slope of the budget line shows the objectively possible exchange ratio of the goods determined on the basis of the price relationship.
+Example: Farmer Meier:
+m = 100 hours
+x = amount of potatoes, y = amount of meat
+px= 10 hours, py= 20 hours
+See Roth (2016), p. 29 -30 Offenburg University of Applied Sciences
+Budget line
+26 Prof. Dr. Sybille Schwarz Roth (2016), p. 31. Offenburg University of Applied Sciences
+The slope of the budget line
+27 Prof. Dr. Sybille Schwarz Roth (2016), p. 37. Offenburg University of Applied Sciences
+Preferences
+28 Prof. Dr. Sybille SchwarzWhat is “best” for an individual depends on their preferences in the sense of their
+wishes.
+
+The ordinal utility theory assumes that individuals can rank their
+benefit perceptions with regard to different bundles of goods and relies primarily on the following three axioms:
+
+➢Completeness (all bundles of goods can be compared and ranked),
+
+➢Transitivity (freedom from contradiction, if A > B and B > C then A > C),
+
+➢Non-saturation (more is better than less).
+
+See Roth (2016), pp. 38 -44. Offenburg University of Applied Sciences
+Indifference curves
+29 Prof. Dr. Sybille SchwarzIndifference curves are used to graphically represent preferences. They 
+connect all combinations of different quantities of goods x and y that provide the 
+individual with the same level of utility. 
+There are different forms of indifference curves, depending on whether goods can be exchanged for 
+each other (perfect substitutes) or complement each other (perfect complements).
+
+Due to the assumption of non-saturation, indifference curves have a negative slope, 
+assuming a decreasing marginal utility. 
+The slope at the points on the indifference curve indicates the individual's subjective willingness to exchange, the amount of a good that they are willing to give up in order to receive an additional 
+unit of another good (marginal rate of substitution). 
+See Roth (2016), pp. 44 -55. Offenburg University of Applied Sciences
+Exercise on indifference curves
+30 Prof. Dr. Sybille SchwarzGraphically represent the indifference curve of Coke and Pepsi (assumption: perfect substitutes)!
+Graphically represent the indifference curve of hiking boots! Offenburg University of Applied Sciences
+Indifference curve
+31 Prof. Dr. Sybille Schwarz Roth (2016), p. 44. Offenburg University of Applied Sciences
+Properties of indifference curves
+32 Prof. Dr. Sybille SchwarzIndifference curves are negatively inclined and convex!
+Indifference curves cannot intersect!Combination of goods Food Clothing
+A 1 6
+B 2 3
+C 3 2 Offenburg University of Applied Sciences
+Optimal demand decision
+33 Prof. Dr. Sybille SchwarzThe optimal bundle of goods that the individual can still afford must lie both on the budget line and on the highest achievable indifference curve. 
+At the point of optimal demand decision, the subjective willingness to exchange 
+of the individual (= slope of the indifference curve) corresponds to the objectively possible exchange ratio 
+(= slope of the budget line). 
+The marginal rate of substitution corresponds to the price ratio .
+The optimal demand decision in each case therefore depends on the preferences, the 
+income (budget) and the prices of goods.
+See Roth (2016), pp. 55 -61. Offenburg University of Applied Sciences
+The optimal bundle of goods
+34 Prof. Dr. Sybille Schwarz Roth (2016), p. 56 Offenburg University of Applied Sciences
+Changes in the parameters of individual demand
+35 Prof. Dr. Sybille SchwarzEconomists do not usually deal with changes in preferences, but with 
+changes in income and prices as exogenous variables.
+How does the quantity demanded for a certain good change, 
+for example, when income changes? A distinction is made between normal, inferior and 
+superior goods. Normally, more of a good is consumed as income increases, but less with inferior goods and more with superior goods (goods of higher need). The line connecting various demand optima 
+of the household in question is called the income-consumption curve.
+How does the demand for a certain good change, for example, when income remains constant but prices for a good change? The connection between the prices of a good and the quantity demanded of this good is shown by the 
+demand curve.
+See Roth (2016), pp. 61 -76. Offenburg University of Applied Sciences
+Income-consumption curve
+36 Prof. Dr. Sybille Schwarz Roth (2016), p. 62. Offenburg University of Applied Sciences
+Factors influencing demand
+37 Prof. Dr. Sybille SchwarzThe law of demand states that a drop in price increases the quantity demanded. 
+The demand function indicates which quantities of a good households demand when 
+the price reaches different levels (ceteris paribus). 
+There are various factors influencing demand, e.g. 
+•price of the good,
+•price of comparable goods (substitutive goods),
+•price of goods that are associated with the use of the good (complementary goods),
+•disposable income, 
+•subjective appreciation (preferences).
+Theoretically, the market demand curve is obtained from the aggregation of the individual 
+demand curves of all buyers belonging to the relevant market. Offenburg University of Applied Sciences
+Exercise on the factors influencing demand
+38 Prof. Dr. Sybille SchwarzUse a graphic to describe the influence of the different factors on the
+quantity demanded:
+1.Price of the good
+2.Price of comparable goods (substitutive goods)
+3.Price of the goods that are associated with the use of the good (complementary goods) Offenburg University of Applied Sciences
+The price and income elasticities of demand
+39 Prof. Dr. Sybille SchwarzIn practice, it plays a major role how strongly demand reacts to price changes, e.g. whether price changes cause a relatively large change in quantity or not. This depends on various factors, e.g. whether the goods are essential or luxury goods or whether substitute goods are available.
+The price elasticity of demand measures the sensitivity (responsiveness) of the quantity demanded for a good (effect) to changes in its price (cause).
+
+With an inelastic demand curve (steeper), a price increase leads to a proportionally
+
+smaller decrease in quantity (price elasticity < 1). Therefore, sales increase.
+
+With an elastic demand curve (flatter), a price increase leads to a proportionally
+
+larger decrease in quantity (price elasticity > 1). Therefore, sales decrease.
+The cross-price elasticity of demand measures the responsiveness of the quantity demanded 
+of one good to price changes of another good. 
+The income elasticity of demand measures the responsiveness of the quantity demanded 
+of a good to a change in income. Offenburg University of Applied Sciences
+Exercises on the price elasticity of demand
+40 Prof. Dr. Sybille SchwarzAssume that the price of a “Tannenzäpfle” increases from €2 to €2.20. The quantity you demand then decreases from ten to eight bottles (per month).
+Graphically sketch the cross-price elasticity of demand for substitute goods. Offenburg University of Applied Sciences
+Continued: Exercises on price elasticity of demand
+41 Prof. Dr. Sybille SchwarzSales and price elasticity of demand: e.g. Price increases from 4 to 5, the quantity demanded decreases from 50 to 20. Offenburg University of Applied Sciences
+Part 2: Questions for the self-test
+42 Prof. Dr. Sybille Schwarz1.What does the slope of the budget line say?
+2.What does the slope at a point on the indifference curve say?
+3.The demand function for tickets to a SC Freiburg game is: x = 800 –20p.
+The entrance fee is €30. How high is the price elasticity of demand?
+4.Describe two factors influencing the demand function and their
+interaction with the quantity demanded.
+. Offenburg University of Applied Sciences
+Part 2: Answers to the self-test
+43 Prof. Dr. Sybille Schwarz. Offenburg University of Applied Sciences
+Part 3: The theory of companies
+Key points:
+•Production technology
+➢Average product, marginal product, production function, returns to scale
+•Costs
+➢Fixed costs, variable costs, total costs, average costs, marginal costs
+•The supply of a company in a polypoly
+➢Marginal cost-price rule
+•Influencing factors of supply
+•The market supply
+Key question:
+What is the connection between production, factor use and costs?
+It is about analyzing the input/output relationships, distinguishing between partial and total factor variation.
+44 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Production technology
+45 Prof. Dr. Sybille SchwarzCompanies acquire production factors that they use to produce goods or services using a specific production technology. 
+This involves looking at the change in output depending on a production factor (ceteris paribus). 
+The total output divided by the input factor used (e.g. number of working hours used) is called the average product. 
+The marginal product (marginal return) indicates the additional units that are achieved by a marginal increase in a production factor (cf. law of diminishing marginal returns). 
+The relationship between output and a varied production factor is represented graphically using the production function. See Roth (2016), pp. 87 -92. Offenburg University of Applied Sciences
+Production function
+46 Prof. Dr. Sybille Schwarz Roth (2016), p. 92. Offenburg University of Applied Sciences
+Returns to scale
+47 Prof. Dr. Sybille SchwarzReturns to scale indicate the rate at which output increases when all inputs are increased by the same amount (total factor variation).
+With constant returns to scale, changing all inputs leads to a proportional change in output.
+With decreasing returns to scale, changing all inputs leads to a less than proportional increase in output.
+With increasing returns to scale, changing all inputs leads to a more than proportional increase in output (“economies of scale”).
+Production elasticity describes the ratio of the relative change in output to the relative change in an input factor (partial factor variation) and thus the weight with which individual input factors contribute to output. Offenburg University of Applied Sciences
+Exercise: Returns to scale and cost trends
+48 Prof. Dr. Sybille SchwarzCase 1: Constant returns to scale
+Case 2: Decreasing returns to scale
+Case 3: Increasing returns to scale Offenburg University of Applied Sciences
+Costs
+49 Prof. Dr. Sybille SchwarzFixed costs arise in the short term regardless of the production level chosen. Variable
+costs change with the production level. 
+The sum of fixed costs and variable costs results in the total costs (total costs). 
+Dividing the total costs by the production quantity results in the average costs. 
+These fall as long as the decrease in the average fixed costs is greater than the 
+increase in the average variable costs (U-shaped curve).
+The marginal costs are the additional costs incurred to produce another unit. Increasing marginal costs are normally assumed. As long as 
+the marginal costs are lower than the average costs, any further expansion of production reduces the average costs. 
+See Roth (2016), pp. 93 -96. Offenburg University of Applied Sciences
+Marginal costs and average costs
+50 Prof. Dr. Sybille Schwarz Roth (2016), p. 99. Offenburg University of Applied Sciences
+The supply of a company in a polypoly
+51 Prof. Dr. Sybille SchwarzPolypoly (perfect competition) is the market form of competition in which many suppliers compete for the favor of the buyers. The individual entrepreneur cannot influence factor and sales prices (price taker or quantity adjuster). Profit maximization requires the choice of the optimal production technology (most favorable factor input ratio) and the optimal production quantity at which the total profit is maximum. As long as the marginal revenue of an additional unit of goods (corresponds to the market price) is greater than the marginal costs required to produce this additional unit of goods, profit will increase by increasing the production quantity. The supply curve of a polypolistic company therefore corresponds to the marginal cost curve. See Roth (2016), pp. 99 -105. Offenburg University of Applied Sciences
+Marginal cost-price rule
+52 Prof. Dr. Sybille Schwarz Roth (2016), p. 103. Offenburg University of Applied Sciences
+Factors influencing supply
+53 Prof. Dr. Sybille SchwarzThe supply function reflects the quantity behavior of producers at alternative prices. The supply curve is positively inclined. The higher the price of the good, the more the companies produce. In addition to the price of the good, the supply of goods depends on other influencing factors, e.g. the price of other goods, the prices of the production factors, the level of technical knowledge. The reaction of the quantity of a good offered to price changes of the good is shown by movements along the supply curve. The reaction of the supply to changes in other variables is shown by a shift in the supply curve. The price elasticity of supply measures the responsiveness of the quantity offered of a good (effect) to changes in its price (cause). The supply of lakeside properties on Lake Constance is presumably inelastic. Offenburg University of Applied Sciences
+Exercise on the factors influencing supply
+54 Prof. Dr. Sybille SchwarzUse a graphic to describe the influence of the different factors on the
+supply quantity:
+1. Price of the good
+2. Price of other goods
+3. Price of the production factors Offenburg University of Applied Sciences
+Special cases of price elasticity of supply
+55 Prof. Dr. Sybille SchwarzGraphically sketch the following cases:
+1. Completely inelastic supply
+2. Infinitely elastic supply
+3. Unit elastic supply Offenburg University of Applied Sciences
+The market offer
+56 Prof. Dr. Sybille Schwarz Roth (2016), p.106. Offenburg University of Applied Sciences
+Part 3: Questions for the self-test
+57 Prof. Dr. Sybille Schwarz1. Explain the term production function and insert the missing values ​​into the table.
+2. Why does the supply curve of a polypolistic company correspond to the marginal cost curve?
+3. Describe two factors influencing the supply function and their relationship with the quantity supplied.
+4. Is the following statement true or false: The long-term supply is more price-elastic than the short-term supply for most products. Give reasons for your answer!
+. Variable factor input Total product Marginal product Average product
+1 5
+2 11
+3 18 Offenburg University of Applied Sciences
+Part 3: Answers to the self-test
+58 Prof. Dr. Sybille Schwarz. Offenburg University of Applied Sciences
+Part 4: Market equilibrium
+Key points:
+•Market equilibrium
+•Effects of supply and demand shifts
+•Markets and price formation
+•The welfare effect of markets: pension considerations
+59 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+The market equilibrium
+60 Prof. Dr. Sybille SchwarzA market is in equilibrium when, at a certain price, the total quantity supplied and the total quantity demanded are the same. The corresponding price is called the equilibrium price, the corresponding quantity is called the equilibrium quantity. A market in equilibrium has neither excess demand nor excess supply; it is "cleared". The price provides the signals required for an efficient allocation of scarce resources and reflects the respective opportunity costs of a decision. Free prices control who uses resources, which goods are provided and which consumers purchase them. The scarce resources are used where they are most urgently needed - measured in terms of willingness to pay, i.e. the willingness to forego other goods. The price system ensures efficient use of scarce resources. See Roth (2016), pp. 106 -124. Offenburg University of Applied Sciences
+The market equilibrium
+61 Prof. Dr. Sybille Schwarz Roth (2016), p. 107. Offenburg University of Applied Sciences
+Market clearing in equilibrium
+62 Prof. Dr. Sybille Schwarz Roth (2016), p. 108. Offenburg University of Applied Sciences
+Effects of supply and demand shifts
+63 Prof. Dr. Sybille SchwarzIf demand remains unchanged, an increase in supply (shift of the supply curve to the right) causes a price drop and a decrease in supply (shift of the supply curve to the left) causes a price increase.
+If supply remains unchanged, an increase in demand (shift of the demand curve to the right) causes a price increase and a decrease in demand (shift of the demand curve to the left) causes a price drop.
+The comparative-static analysis is a tool for assessing the effects:
+1.Does an event lead to a shift in the supply and/or demand curve?
+2.Right or left shift?
+3.Comparison of the original equilibrium with the new equilibrium in terms of equilibrium price and quantity.
+Cf. Mankiw/ Taylo (2018), pp. 80 -87. Offenburg University of Applied Sciences
+Exercise: Effects of supply and demand shifts
+64 Prof. Dr. Sybille SchwarzCase 1: How does a hot summer change the demand for milk?
+Case 2: A drought drives up the price of animal feed. How does this affect the market for milk?
+Case 3: Combination of 1 and 2 (heat wave and increase in the price of animal feed) Offenburg University of Applied Sciences
+Markets and price formation
+65 Prof. Dr. Sybille SchwarzThe market acts as a “clearing house” where buyers indicate the quantity they are willing to buy at certain prices and suppliers indicate the quantity they are willing to provide at certain prices. Although all market participants draw up their plans independently, the market enables the optimal coordination of the plans of suppliers and buyers through the price formation process. Similar to an auction, the buyer with the highest willingness to pay is sought and found (see exercise Gengenwin AG). Offenburg University of Applied Sciences
+Example Gengenwin AG
+66 Prof. Dr. Sybille SchwarzPrice Buy orders Sell orders
+Best 26
+120 15 2
+121 5 6
+122 3 16
+123 16 4
+124 6 7
+125 3 10
+126 4
+Cheapest 25
+Based on Bofinger (2015) Offenburg University of Applied Sciences
+Exercise Gengenwin AG
+67 Prof. Dr. Sybille SchwarzCourses Demanded
+QuantitySupplied
+QuantitySales
+Under 120
+120
+121
+122
+123
+124
+125
+126
+Over 126 Offenburg University of Applied Sciences
+The welfare effect of markets: rent considerations
+68 Prof. Dr. Sybille Schwarz A welfare economic rent is understood to be the utility gain that a market participant derives from market transactions. 
+The consumer rent captures the utility gain of a consumer as the difference 
+between the individual willingness to pay and the price actually to be paid 
+Graphically, it represents the area above the price and below the demand curve. 
+The producer rent measures the difference between the revenue and the costs of 
+production. Graphically, it represents the area below the market price and above the 
+supply curve. 
+The sum of consumer rent and producer rent is called total rent or 
+social surplus (maximum in equilibrium → Pareto-efficient result). 
+See Roth (2016), pp. 130 -139. Offenburg University of Applied Sciences
+Example: Jakob's consumer surplus
+69 Prof. Dr. Sybille Schwarz Roth (2016), p. 131. Jakob's willingness to payCosts
+(=price)Benefit surplus
+1st bar €1.50 €0.50 €1.00
+2nd bar €1.25 €0.50 €0.75
+3rd bar €1.00 €0.50 €0.50
+4th bar €0.75 €0.50 €0.25
+5th bar €0.50 €0.50 €0.00
+Total €5.00 €2.50 €2.50 Offenburg University of Applied Sciences
+Jakobs consumer surplus
+70 Prof. Dr. Sybille Schwarz Roth (2016), p. 132. Offenburg University of Applied Sciences
+Welfare loss of a supply surplus
+71 Prof. Dr. Sybille Schwarz Roth (2016), p. 135. Offenburg University of Applied Sciences
+Welfare loss from excess demand
+72 Prof. Dr. Sybille Schwarz Roth (2016), p. 136. Offenburg University of Applied Sciences
+Part 4: Questions for self-testing
+73 Prof. Dr. Sybille Schwarz1. What happens if there is a higher price in relation to the equilibrium price?
+2.How does a hot summer affect the quantity demanded and the price of ice cream?
+3.Explain the following statement with reference to the supply-demand diagram:
+"When a cold spell hits Spain, the price of orange juice rises."
+4.Look at the market for eggs and clarify the effects on supply and demand as well as on supply and demand quantities for the events given.
+➢The price of chicken feed rises.
+➢A study shows that consuming eggs can be harmful to health.
+5.What is meant by consumer surplus?
+. Offenburg University of Applied Sciences
+Part 4: Answers to the self-test
+74 Prof. Dr. Sybille Schwarz. Offenburg University of Applied Sciences
+Part 5: The market failure theory and special pricing situations in practice
+Key points:
+•Market failure and prisoner's dilemma
+•Market failure situations
+➢Public goods, external effects, structural problems of competition (e.g. 
+natural monopoly), asymmetric information 
+•State influence on pricing
+➢Direct quantity regulations, maximum and minimum prices, subsidies or 
+taxation
+•Pricing in monopolistic competition and oligopolies
+•Competition policy
+•Distribution policy
+•Regulatory policy
+75 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Market failure
+76 Prof. Dr. Sybille SchwarzFrom an economic perspective, government intervention in the competitive allocation of resources can be justified under certain circumstances. The market failure theory provides possible reasons. Government intervention promotes welfare when it can be plausibly expected that it will lead to a Pareto-superior state in relation to the market result. Market failure occurs in situations in which the allocation by the markets does not work. Individually rational behavior then leads to collectively irrational results, i.e. the criterion of Pareto efficiency (no waste of scarce resources and no individual can be better off without making another individual worse off) is not guaranteed. Examples of market failure are: existence of public goods, existence of external effects, structural problems of competition, lack of transparency for consumers. See Roth (2016), pp. 149 -152. Offenburg University of Applied Sciences
+The prisoner's dilemma
+77 Prof. Dr. Sybille SchwarzThe story of the prisoner's dilemma is not an economic one, but has been established in 
+game theory to depict the divergence of individual and collective 
+rationality. These are interdependent decision-making situations in which the consequences of decisions made by one side depend on decisions made by the other side. 
+For example, two people are suspected of a crime. The following options for action 
+exist in separate interrogations: one person confesses to the crime they committed together, the other denies it, both confess or both deny it. It can be shown that individual confession leads to the worst collective situation. 
+See Roth (2016), pp. 152 -155. Offenburg University of Applied Sciences
+The prisoner's dilemma
+78 Prof. Dr. Sybille SchwarzMatilda confesses Matilda denies
+Frieda confesses 5 years in prison
+5 years in prison6 years in prison
+Acquittal
+Frieda denies Acquittal
+6 years in prison1 year in prison
+1 year in prison Offenburg University of Applied Sciences
+Market failure situation: Public goods
+79 Prof. Dr. Sybille SchwarzPrivate goods are goods that meet the following criteria:
+➢Excludability from consumption,
+➢Rivalry in consumption.
+
+Public goods do not meet these two criteria. They can be consumed without having to pay for them, as they have no price.
+
+So-called "common goods" have rivalrous uses, but are not excludable, whereas club goods are excludable but not rivalrous.
+Efficient provision of public goods could be achieved if everyone contributed to financing according to their individual willingness to pay. Market allocation threatens to fail if all individuals do not act selflessly and honestly reveal their respective willingness to pay (freerider behavior or free rider behavior). See Roth (2016), pp. 155 -162. Offenburg University of Applied Sciences
+Market failure situation: External effects
+80 Prof. Dr. Sybille SchwarzExternal effects (externalities) arise from the impact of economic action on the welfare of an uninvolved third party, for which no one pays or receives compensation. If the effect is damaging, it is referred to as a negative external effect (e.g. exhaust fumes from cars); if it is beneficial, it is referred to as a positive external effect (e.g. restored historic buildings). The reason for this is often inadequately defined or insufficiently enforceable property rights. In the case of negative external effects, the social marginal benefit is lower than private demand suggests. The economically efficient result is missed as long as the effects of private actions on other members of society are not taken into account (internalization). See Roth (2016), pp. 163 -168 and Mankiw/Taylor (2018), pp. 322 -326. Offenburg University of Applied Sciences
+Discussion: External effects
+81 Prof. Dr. Sybille SchwarzTo what extent can inventions and vaccinations generate positive external effects? Offenburg University of Applied Sciences
+Theoretical solutions for external effects
+82 Prof. Dr. Sybille SchwarzThe private negotiation solution according to the Coase theorem: Private negotiations can lead to an efficient result. In practice, private negotiations do not always work, e.g. due to transaction costs (costs in the course of negotiating and implementing an agreement), negotiation difficulties, coordination problems, asymmetric information and the assumption of rational behavior. If individual negotiations are not possible, the state can solve the externality problem. The Pigou tax is a market-based political measure to correct negative external effects. In theory, the tax increases the costs to be borne privately to the extent necessary to compensate for the social marginal costs. The solution through certificates: The legislator defines a target quantity. A corresponding quantity of certificates is issued, the possession of which entitles the holder to damage the environment. The prices for the certificates are determined on the market.
+See Roth (2016), pp. 168 -179. Offenburg University of Applied Sciences
+Case study on the Coase theorem
+83 Prof. Dr. Sybille Schwarz Nora has a dog called Brandy that occasionally barks and disturbs the neighbor Lukas (negative externality). Should Nora be forced to give Brandy away, or should Lukas have to endure sleepless nights because of the barking? Which outcome would be more economically efficient? If Nora's benefit from the dog exceeds the external costs for Lukas, it is more efficient overall if Nora keeps the dog and Lukas learns to live with the barking. If Lukas' costs exceed the benefit for Nora, Brandy should "theoretically" be given away. The problem, however, is to evaluate costs and benefits accordingly. Otherwise (assuming that market participants act rationally), Lucas could offer Nora money to give up the dog. Nora would give up the dog if the amount of money offered exceeded the discounted future benefit of keeping the dog. Would the outcome be different if Lukas had a legally protected right to peace and quiet? According to Coase, the original distribution of rights plays no role in the market's ability to reach an efficient result. However, the legal situation ultimately decides who pays whom. 
+See Mankiw/Taylor (2018), pp. 334 -337. Offenburg University of Applied Sciences
+Case study on the Pigou tax
+84 Prof. Dr. Sybille SchwarzAssume that two factories, a paper factory and a steel factory, each discharge 500 tons of wastewater into a river each year. There are two alternatives to reduce pollution:
+1. Regulation: Companies are required by the state to reduce their wastewater discharge into the river to 300 tons per year.
+2. Pigou tax: Companies are charged a tax of 50,000 euros per ton of wastewater.
+
+Regulation would prescribe a maximum level of pollution, and the Pigou tax would provide an incentive to reduce pollution to the point where the marginal cost of pollution prevention (the cost of the last unit of pollution not emitted, i.e. avoided) is equal to the tax rate.
+
+The regulatory solution is not necessarily the cheapest and most effective for improving water quality. It is possible, for example, that the paper factory can reduce the amount of wastewater more easily and cheaply than the steel factory. It could significantly reduce the amount of wastewater discharged in order to avoid paying taxes, while the steel factory reduced pollution to a lesser extent and paid the taxes. However, the design of the Pigou tax depends on the respective framework conditions of the tax system; in practice it is often difficult to determine the appropriate tax rate. See Mankiw/Taylor (2018), pp. 338 -339. Offenburg University of Applied Sciences
+Case study on the certificate solution
+85 Prof. Dr. Sybille SchwarzSuppose the paper factory and the steel factory are each required to reduce their wastewater discharge to 300 tons per year. Both have fulfilled the requirement, but then come up with the idea that the steel factory increases the discharge by 100 tons, while the paper factory reduces the discharge by exactly that amount and receives 5 million from the steel factory in return. From the point of view of economic efficiency, this would be a good solution. By allowing the paper factory to sell its right to pollute to the steel factory, welfare is increased. Those companies that can only reduce their emissions at high costs will pay the most for the certificates. Companies that can reduce emissions at low costs will sell their certificates. Both Pigouvian taxes and environmental permits internalize the external effects of pollution by making it costly for companies. By imposing a Pigouvian tax, the government sets the price of pollution and the demand curve determines the amount of pollution. By issuing a limited number of government environmental permits, on the other hand, the amount of pollution is set and the demand curve determines the price of pollution. In both cases, the price and amount of pollution are the same. See Mankiw/Taylor (2018), pp. 340 -342. Offenburg University of Applied Sciences
+Exercise on the Pigou tax and environmental certificates
+86 Prof. Dr. Sybille Schwarz1.Can you illustrate the market-based measure “Pigou tax” using a diagram?
+2.Can you illustrate the market-based measure “environmental certificate” using a diagram? Offenburg University of Applied Sciences
+Discussion: Emission certificates (CO2 certificates)
+87 Prof. Dr. Sybille SchwarzSince 2005, companies within the EU have been trading emission certificates. The 
+total volume of greenhouse gases that may be emitted is set by an upper limit 
+(cap) within which companies can receive, purchase and trade certificates. 
+"Unpopular success model" (FAZ, January 4, 2021) 
+➢Expansion of the trading system to include transport and buildings? Offenburg University of Applied Sciences
+Market failure situation: Natural monopoly
+88 Prof. Dr. Sybille SchwarzIf there is insufficient competition, inefficiencies are to be expected (welfare losses due to 
+lack of innovation and quantity restrictions). In contrast to the price takers 
+(quantity adjusters) in the polypoly, the monopolist faces the entire market demand alone 
+(price setters). The price-sales function of the monopolist is identical to the market demand curve. 
+Temporary or state-protected monopolies do not constitute market failure. 
+The situation is different with natural monopolies. Here, even in free markets 
+there is no competition due to other suppliers entering the market. Natural monopolies arise 
+because a single company can produce a certain good for the entire market at lower costs than 
+two or more companies. When producing a good, there are "subadditive" 
+cost structures, e.g. B. for network-dependent goods such as water, electricity, rail, 
+telephone. Connecting additional users to a network only causes low costs. One 
+supplier is therefore able to meet the entire demand at lower costs than several 
+suppliers. 
+See Roth (2016), pp. 180 -190. Offenburg University of Applied Sciences
+Monopoly: Entrepreneurs as price setters
+89 Prof. Dr. Sybille SchwarzRoth (2016), p. 184. Offenburg University of Applied Sciences
+Monopoly: Welfare loss
+90 Prof. Dr. Sybille SchwarzRoth (2016), p. 185. Offenburg University of Applied Sciences
+Market failure situation: Asymmetric information
+91 Prof. Dr. Sybille SchwarzWith an asymmetric distribution of information, one side of the market is better informed than the other. This information advantage can cause external effects, e.g. through:
+➢Adverse selection: A market can result in poor quality or risk selection if one side of the market has crucial information before the contract is concluded that is hidden from the other (e.g. used car market).
+➢Moral hazard: After the contract is concluded, one party to the contract can change their behavior in a way that harms the other (e.g. insurance).
+There are options such as signaling (e.g. guarantee promises) or screening (e.g. insurance with deductibles) to counteract market failure. 
+See Roth (2016), pp. 190 -199. Offenburg University of Applied Sciences
+State influence on price formation
+92 Prof. Dr. Sybille SchwarzThe state has various means of intervening in free price formation, e.g.
+•Direct quantity regulations, such as the legal setting of quotas, these 
+restrict supply. A higher price is formed than with free price formation.
+•Setting maximum and minimum prices: These lead to a demand 
+excess at maximum prices or a supply surplus at minimum prices. 
+•Subsidies or taxation: This influences the financial framework for individual economic production and consumption decisions. Offenburg University of Applied Sciences
+Exercise: State influence on price formation
+93 Prof. Dr. Sybille SchwarzGraphically show the effects of the following interventions:
+1.Setting a quota
+2.Setting a rent control Offenburg University of Applied Sciences
+Pricing in monopolistic competition
+94 Prof. Dr. Sybille SchwarzIn monopolistic competition (heterogeneous polypoly), many suppliers offer heterogeneous, 
+but similar products. There is scope for price setting within certain limits. Instead of pure quantity adjustment, a strategy of 
+price fixing is used. For example, the strategy of product differentiation is a relatively simple 
+way of creating limited scope for pricing. 
+Price differentiation is based on the idea of ​​charging each buyer the maximum price that they would be willing to pay (maximum possible consumer surplus). In practice, different buyer groups are often separated from one another or markets are segmented.
+Discuss the following statement: With a sophisticated marketing strategy, a monopolistic position can be achieved relatively easily! Offenburg University of Applied Sciences
+Exercise: Price formation in monopolistic competition
+95 Prof. Dr. Sybille SchwarzExplain and show graphically how you can gain a “monopoly-like” position with a brand name! Offenburg University of Applied Sciences
+Price formation in oligopoly
+96 Prof. Dr. Sybille SchwarzOligopoly on imperfect markets is characterized by the fact that there are many
+
+customers but only a few suppliers. In oligopoly, price formation depends not only on
+
+the reaction of the customers, but also on the reaction of other oligopolists (interdependent decision situations). In practice, various
+
+behaviors can be observed, e.g.
+
+➢quality competition,
+
+➢market leadership,
+
+➢cutting-edge competition,
+
+➢coordinated behavior.
+
+In practice, cooperation with cooperative partners is also common and
+
+non-cooperative behavior is punished. Offenburg University of Applied Sciences
+Exercise: Price formation in different market forms
+97 Prof. Dr. Sybille SchwarzCompare the oligopoly and the heterogeneous polypoly in terms of price formation!
+Briefly describe two possible behavioral strategies of an oligopolistic provider. Offenburg University of Applied Sciences
+Competition policy
+Competition is not an end in itself, but is intended to ensure freedom of entrepreneurial activity, freedom of consumer choice and freedom of choice of job. It is also intended to ensure the optimal allocation of resources. The protection of competition is anchored in the ➢Law against Restraints of Competition (e.g. principle of prohibition of cartels, ➢abuse control of market-dominating companies, merger control) and other laws such as the ➢Law against Unfair Competition, Trademark Act, Patent Act.
+The model of functional competition is, for example, the benchmark for the decisions of the Federal Cartel Office. The model of freedom of competition is represented among economists primarily by Friedrich August von Hayek (1899-1992).
+98 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Distribution policy
+Even if free competitive markets enable efficient use of scarce resources
+and distribution based on performance (exchange justice), there are often other concepts of justice (e.g. distributive justice, equal opportunities) that are used to justify distribution policy interventions. 
+Requirements for efficient redistribution:
+➢Redistribution activities should relate to individuals, be based on material need and be carried out efficiently. 
+➢Redistribution activities through direct market interventions (“transfer in kind”) are inefficient from an economic point of view. Distribution policy should start with the initial endowment via the tax-transfer system (“transfer in cash”) and then leave price formation to the free play of supply and demand. 
+➢The reduction of performance incentives as the upper limit of desirable redistribution policy should be taken into account.
+See Roth (2016), pp. 201 -216. 99 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Regulatory policy versus process policy
+Should political decisions be limited to basic framework conditions or should they contain specific requirements?
+Regulatory policy aims to shape the economic order in a way that promotes the common good and thus the rules of the game under which participants in economic life operate.
+Process policy, on the other hand, intervenes directly in individual economic processes and thus attempts to control economic activity promptly and specifically. In practice, it is often difficult to identify these situations in a timely and clear manner (information problem). In addition, there are often uncontrollable feedback effects or the risk of influence from lobbyists. 
+See Roth (2016), pp. 221 -224.
+100 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Part 5: Questions for the self-test
+101 Prof. Dr. Sybille Schwarz1.Describe two market failure situations.
+2.Describe a possible solution for externalities.
+3.Graphically depict the imposition of a Pigou tax or the issuing of environmental certificates.
+4.Describe an essential characteristic of the monopolist in comparison to the
+polypolist.
+5.Graphically depict how the following interventions affect price formation:
+•direct quantity regulations,
+•setting of maximum prices.
+6.Describe the idea of ​​price differentiation.
+. Offenburg University of Applied Sciences
+Part 5: Answers to the self-test
+102 Prof. Dr. Sybille Schwarz. Offenburg University of Applied Sciences
+Part 6: Macroeconomic data
+Key points:
+•National accounts
+➢Circular diagram, gross domestic product (nominal, real), GDP deflator, 
+Economic indicators, GDP as a measure of prosperity
+•Measuring the cost of living
+➢Consumer price index, inflation rate, inflation adjustment
+103 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+National Accounts
+104 Prof. Dr. Sybille SchwarzWhile microeconomics analyses the decision-making behavior of consumers and producers and their interaction on the markets, macroeconomics examines macroeconomic phenomena. 
+Circular analysis presents the flow of money and goods in a compressed form. To do this, the economic entities are grouped together into groups (sectors) and their relationships (transactions) are presented. Four sectors are distinguished: companies, private households, the state, and the rest of the world.
+National accounts in the narrower sense record the transactions between the sectors in the form of an income/expenditure account (“national accounting”). 
+In addition, the assets of an economy, credit relationships and transactions with foreign countries (balance of payments) are also recorded. Offenburg University of Applied Sciences
+The circular flow diagram
+105 Prof. Dr. Sybille SchwarzSee Mankiw /Taylor (2018), p. 623. Offenburg University of Applied Sciences
+Excursus: Balance of payments
+The balance of payments records the performance and financial transactions that have taken place between domestic and foreign countries over a period of time. It is structured according to the principle of double-entry accounting and records all transactions in two sub-balances:
+1. Current account: essentially records foreign trade, services, earned and property income, current transfers.
+2. Capital account: essentially records direct investments, securities investments, loans, foreign exchange, derivatives, other capital investments.
+Example: A Porsche is exported to the USA. In the current account, this is recorded as an export, in the capital account, the short-term loans item increases if one assumes that the delivery to a US importer is made on credit.
+106 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Discussion
+“The Yin and the Yang of the Current Account” (FAZ, April 3, 2017)
+➢The Yin: Germany had a current account surplus of €261 billion in 2016
+➢The Yang: Germany consumed €261 billion less or invested domestically in 2016 than would have been possible. More capital left the country than flowed into it.
+
+107 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Measurement concepts for economic growth
+The domestic product (domestic concept) is measured as the result of production within the
+geographical borders of a country. The gross domestic product is the 
+value expression for the quantity of all goods and services produced in an 
+economy within a certain period (only the value of the 
+final products). 
+The national income (domestic concept, formerly national product) measures the value 
+of all goods and services generated in a year by domestic companies, 
+households and the state. 
+108 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Gross domestic product (GDP)
+109 Prof. Dr. Sybille SchwarzThe GDP is the market value of all goods and services intended for final consumption that are produced in a country in a certain period of time.
+The GDP (= Y) can be broken down into four components: consumption (C), investments (I),
+government spending (G), net exports (NX) → Y = C + I + G + NX
+The production of goods and services valued at current prices is called
+nominal GDP. In order to obtain a measure that is not influenced by price changes,
+real GDP is used, which values ​​the production of goods and services at
+constant prices.
+The GDP deflator measures the prices of goods and services, calculated as the ratio of nominal and real GDP times 100. 
+See Mankiw/Taylor (2018), pp. 624 -641. Offenburg University of Applied Sciences
+Exercise: Nominal, real GDP, GDP deflator
+110 Prof. Dr. Sybille SchwarzIn 2019, an economy produced 100 keychains that are sold for 2 euros each. In 2020, this economy produces 200 keychains that are sold for 3 euros each.
+Calculate the nominal GDP for the years 2019 and 2020.
+Calculate the real GDP and the GDP deflator for the year 2020. By what percentage do the nominal GDP and the price level increase from one year to the next? Offenburg University of Applied Sciences
+GDP components Germany 2017
+111 Prof. Dr. Sybille SchwarzSource: Federal Statistical Office (ed.), as of February 2018, cited in: Mankiw /Taylor (2018), p. 631.GDP component Total (billion €) Per capita (€) Share (%)
+Gross domestic product 3,263.35 39,469 100.0
+Consumption 1,734.99 20,979 53.2
+Investments 641.37 7,755 19.6
+Government spending 638.66 7,723 19.6
+Net exports 248.33 3,003 7.6 Offenburg University of Applied Sciences
+Gross domestic product
+112 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Economic indicators
+113 Prof. Dr. Sybille SchwarzProductivity indicators are a measure of the performance of the production factors labor and capital, e.g. labor productivity is measured as the quotient of GDP and the number of employed persons or capital productivity as the quotient of GDP and gross fixed assets (capital stock).
+Unit labor costs are a measure of the cost competitiveness of an economy. They relate labor costs per employee to the labor productivity provided and thus calculate the proportion of labor costs that fall on a product unit. When comparing countries, differences in labor costs are often offset by differences in productivity levels.
+Other interesting indicators are the share of government consumption (government consumption/GDP), the government share (government expenditure/GDP) and the tax rate.
+(see, for example, the annual report of the German Council of Economic Experts on the assessment of overall economic development). Offenburg University of Applied Sciences
+Gross domestic product as a measure of prosperity
+114 Prof. Dr. Sybille SchwarzThe real GDP per capita is considered the best available single measure of the economic prosperity of the population. But there are also things that contribute to the quality of life that are left out, e.g. the value of leisure time, housework, volunteer work, quality of the environment. 
+See Mankiw /Taylor (2018), pp. 637 -638.
+
+"The standard of living is a measure of life and not the sum of goods. 
+It includes the freedom of choice as well as the care for others."
+(Amartya Sen, received the Nobel Prize for Economics in 1998)
+Discussion: Critically assess the domestic product as an indicator of prosperity! Offenburg University of Applied Sciences
+Consumer Price Index
+115 Prof. Dr. Sybille SchwarzThe consumer price index is used to measure the cost of living. This is a measure of the development of the price level of an economy. It measures the price changes of goods and services purchased by an "average consumer" and is determined monthly by the Federal Statistical Office in order to determine the change in the cost of living over time. First, the basket of goods is determined by means of a consumer survey, then the prices for each good in the basket are determined and the price of the basket is calculated. A base year is determined which serves as a comparison standard. The price of the basket of goods in each year is divided by the price of the basket of goods in the base year and multiplied by 100. Finally, the consumer price index is used to calculate the inflation rate as a percentage change in the price index compared to the previous period. See Mankiw / Taylor (2018), pp. 650 -658. Offenburg University of Applied Sciences
+Weighting in the consumer price index
+116 Prof. Dr. Sybille Schwarz. Offenburg University of Applied Sciences
+Exercise: Consumer Price Index
+117 Prof. Dr. Sybille SchwarzA shopping basket consists of four hot dogs and two hamburgers. In the base year 2016, the price of a hot dog was 1 euro and that of a hamburger was 2 euros. The prices have risen by one euro each in the next two years. Calculate the consumer price indices and the inflation rates for 2017 and 2018! Offenburg University of Applied Sciences
+Discussion: Consumer Price Index
+118 Prof. Dr. Sybille SchwarzDiscussion: What problems could distort the consumer price index? Offenburg University of Applied Sciences
+Inflation adjustment
+
+119 Prof. Dr. Sybille SchwarzPrice indices are used to eliminate the effects of inflation when comparing
+
+money amounts at different points in time. The contractually or legally stipulated automatic inflation adjustment of monetary values ​​is called
+
+indexation.
+
+Adjusting for the effects of inflation is particularly important with regard to interest rates. The interest rate that the bank pays is called the nominal interest rate, and the interest rate adjusted for the
+
+inflation rate is called the real interest rate. The real interest rate
+
+is therefore the difference between the nominal interest rate and the inflation rate.
+
+See Mankiw / Taylor (2018), pp. 659 -664. Offenburg University of Applied Sciences
+Exercise on adjusting for inflation
+120 Prof. Dr. Sybille SchwarzThe price of a chocolate bar rose from €0.10 to €0.60 over a longer period of time. The consumer price index rose from 150 to 300 in the same period. By how many
+cents did the price rise after adjusting for inflation? Offenburg University of Applied Sciences
+Part 6: Questions for the self-test
+121 Prof. Dr. Sybille Schwarz1.Why is a high GDP desirable for a country? Give an example of something that increases GDP but is not desirable.
+2.Which sectors are distinguished in the circular flow analysis?
+3.How do nominal and real GDP differ?
+4.How does the nominal interest rate differ from the real interest rate?
+5.Which components of GDP are affected by the following transactions?
+➢A family buys a new washing machine.
+➢You buy a bottle of French red wine.
+6.Using the following situation, explain a problem in determining the consumer price index: Purchases of tablets are increasing as a result of the price drop. Offenburg University of Applied Sciences
+Part 6: Answers to the self-test
+122 Prof. Dr. Sybille Schwarz. Offenburg University of Applied Sciences
+Part 7: Long-term real economic development
+Key points:
+•Production and growth
+➢Determinants of productivity, the importance of savings and 
+investment
+•Unemployment
+➢Types, recording 
+123 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Production and growth
+124 Prof. Dr. Sybille SchwarzProductivity is an important determinant of the standard of living, 
+measured by real GDP per capita. It refers to the amount of 
+goods and services that a worker can produce in a certain period of time. 
+Determinants of productivity are
+•real capital per worker (stock of means of production produced),
+•human capital (knowledge and skills of the workforce),
+•natural resources (inputs provided by nature),
+•technological knowledge (knowledge of the best production methods).
+
+There is a positive correlation between investment and growth.
+An increase in the stock of real capital can also be achieved through investment from abroad, e.g. through foreign direct investment and foreign portfolio investment. 
+See Mankiw /Taylor (2018), pp. 673 -676. Offenburg University of Applied Sciences
+Growth and Investments/1
+125 Prof. Dr. Sybille SchwarzMankiw /Taylor (2016), p. 685.. Offenburg University of Applied Sciences
+Growth and Investments/2
+126 Prof. Dr. Sybille SchwarzSee Mankiw /Taylor (2016), p. 685.. Offenburg University of Applied Sciences
+Discussion: Growth rates and compounding
+127 Prof. Dr. Sybille SchwarzSuppose one country has an average growth rate of 1 percent per year, while another country grows by 3 percent. Is the difference really that significant?
+Example: Suppose two university graduates – Lena and Max – take their first job at the age of 25 and both earn 30,000 euros per year. Max lives in an economy in which all incomes grow by 1 percent per year, whereas Lena's grows by 3 percent. Max therefore earns 30,000 euros in the first year, 30,300 euros in the second year, 30,603 euros in the third year, etc. Lena already earns 30,900 euros in the second year, 31,827 euros in the third year, etc. Forty years later, when both are 65, Max earns 45,000 euros per year, while Lena earns 98,000 euros. A rule of thumb is helpful for understanding compounding effects. If a quantity grows at a rate of x percent per year, this quantity doubles in approximately 70/x years (for Max it takes 70 years, for Lena only around 23 years). See Mankiw/Taylor (2018), p. 672. Offenburg University of Applied Sciences
+The importance of savings and investment
+128 Prof. Dr. Sybille SchwarzIf an economy produces a lot of new capital goods today, it will have a larger capital stock tomorrow and be able to produce more goods and services. Conversely, this means that fewer resources can be used for current consumption and the savings rate must increase. As savings increase, fewer resources are needed to produce consumer goods or more resources are available for producing capital goods. Due to diminishing marginal returns, growth slows down. In the long term, a higher savings rate leads to a higher level of productivity and income, but not to faster growth. From a given starting point, poor countries tend to achieve faster growth than rich countries (catch-up effect). See Mankiw / Taylor (2018), pp. 687 -689. Offenburg University of Applied Sciences
+Diminishing marginal returns and the catch-up effect
+129 Prof. Dr. Sybille SchwarzSee Mankiw /Taylor (2016), p. 686.. Offenburg University of Applied Sciences
+Discussion
+"Germany is suffering as a business location" (FAZ, January 12, 2021)
+➢According to a ZEW study, Germany is among the laggards among the 21 industrial nations examined.
+➢Weaknesses are seen primarily in the areas of tax policy, the quality of infrastructure, labor costs, productivity and human capital. The financial stability of the state and private sector is highlighted positively.
+➢In recent years, Germany has focused heavily on the distribution of wealth, and now Germany must become more competitive again.
+➢In the World Economic Forum's Global Competitiveness Report, Germany fell four places in 2019, but at 7th place it was still in the top 10 of the 141 countries examined. “The welfare state is reaching its limits” (FAZ, 30.12.2020)
+130 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Unemployment
+131 Prof. Dr. Sybille SchwarzThe problem of unemployment is viewed as a long-term and short-term phenomenon (e.g. 
+seasonal unemployment).
+The natural unemployment rate describes the normal level of long-term 
+unemployment in an economy, which does not disappear and around which the 
+unemployment rates fluctuate cyclically (cyclical unemployment). 
+Approaches to explaining the natural unemployment rate include, for example,
+•the search for a job (frictional unemployment),
+•structural reasons that lead to a gap between labor supply and labor demand.
+See Mankiw /Taylor (2018), pp. 709 -722. Offenburg University of Applied Sciences
+Recording unemployment
+132 Prof. Dr. Sybille SchwarzThe number of unemployed (jobless) is the number of people who are able to work and are available to the labor market at the prevailing wage rate, but who do not have a job. The unemployment rate expresses the number of unemployed in relation to the number of employed persons (labor force potential), which corresponds to the sum of employed and unemployed persons.
+
+Unemployment is measured either as the number of people registered as unemployed (Federal Employment Agency) or with the help of unemployment statistics (Federal Statistical Office), which are based on the recording system of the International Labor Organization (ILO).
+
+Unemployment that is not recorded in statistics is referred to as hidden unemployment.
+
+See Mankiw/Taylor (2018), pp. 704 -707. Offenburg University of Applied Sciences
+Part 7: Questions for the self-test
+133 Prof. Dr. Sybille Schwarz1.To what extent does a university degree represent a form of capital?
+2.How can differences in development between countries be explained?
+3.Explain how higher savings lead to a higher standard of living.
+4.In the 1980s, Japanese investors made significant direct and portfolio investments in the USA. In what ways was this beneficial for the USA? In what ways would it have been better if the Americans had made these investments themselves?
+5.We assume that there are 40 million employed people, 2 million unemployed and 40 million non-employed people in Germany. What is the number of employed people, the employment rate and the unemployment rate?
+. Offenburg University of Applied Sciences
+Part 7: Answers to the self-test
+134 Prof. Dr. Sybille Schwarz. Offenburg University of Applied Sciences
+Part 8: Interest rates, money and prices
+Key points:
+•Saving, investing and the financial system
+➢Financial markets, financial intermediaries, overall economic savings, analysis of the
+credit market
+•The monetary system
+➢Importance of money, role of central banks, monetary policy instruments, the
+central bank, banks and the money supply
+•Money supply growth and inflation
+➢Money supply, money demand, monetary equilibrium, quantity theory of
+
+money, velocity of money
+135 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+The financial system 
+136 Prof. Dr. Sybille SchwarzThe financial system consists of institutions that help match one person's savings with another person's investment wishes. 
+Financial markets are those institutions through which a person who wants to save can pass on funds directly to a person who wants to borrow money. The most important financial markets are the bond and stock markets. The basic functions of financial markets are capital allocation, risk transfer and information generation. 
+Financial intermediaries are institutions through which savers indirectly provide funds to debtors (banks and investment companies). An investment company is an institution that issues shares to the public and uses the proceeds from them to buy a portfolio of shares and bonds (mutual funds). 
+See Mankiw/Taylor (2018), pp. 735 -743. Offenburg University of Applied Sciences
+Saving, investing and total income
+137 Prof. Dr. Sybille Schwarz The overall economic savings (S) are determined by the total income of an economy that remains after deducting expenditure on consumption and government consumption. 
+It is made up of private savings (income that remains for households after deducting taxes and consumption expenditure) and public savings (amount of tax revenue that remains for the state after paying its expenditure). 
+In a closed economy, Y = C + I + G. If Y -C -G is replaced by S , S = I follows. T denotes taxes. Accordingly, the overall economic savings are: S = (Y -T -C) + (T -G). If (T -G) > 0, this is referred to as a budget surplus, if (T -G) < 0, this is referred to as a budget deficit. See Mankiw / Taylor (2018), pp. 746 -749. Offenburg University of Applied Sciences
+Analysis of the credit market
+138 Prof. Dr. Sybille SchwarzAssumptions are made that savings and investments are coordinated on the credit market, which is determined by supply and demand. Those who want to save offer funds and those who want to invest demand funds. The interest rate is the price of a loan. The amount of credit funds demanded falls as the interest rate rises. The analysis of the credit market can be used to examine different government measures that influence the savings and investments of an economy. The impact analysis in the sense of a comparative-static analysis is carried out in three steps: 1. Does the fiscal policy measure shift the supply or demand curve? 2. In which direction does the respective curve shift? 3. How does the equilibrium on the credit market change? See Mankiw / Taylor (2018), pp. 753 -757. Offenburg University of Applied Sciences
+The credit market
+139 Prof. Dr. Sybille SchwarzSee Mankiw /Taylor (2018), p. 751. Offenburg University of Applied Sciences
+Taxes and savings
+140 Prof. Dr. Sybille SchwarzSee Mankiw /Taylor (2018), p. 754. Offenburg University of Applied Sciences
+Taxes and Investments
+141 Prof. Dr. Sybille SchwarzSee Mankiw /Taylor (2018), p. 755. Offenburg University of Applied Sciences
+State budget deficits
+142 Prof. Dr. Sybille SchwarzSee Mankiw /Taylor (2018), p. 757 Offenburg University of Applied Sciences
+The monetary system 
+143 Prof. Dr. Sybille SchwarzWithout money, people would have to rely on barter. Money has three 
+functions: It is 
+•Means of exchange: Money enables transactions between buyers and sellers , 
+•Unit of account: Money is a measure for setting prices and specifying debts and makes 
+values ​​comparable and 
+•Store of value: With the help of money, purchasing power can be 
+shifted from today into the future. 
+The amount of money circulating in an economy includes cash and demand deposits 
+(book money) in the checking account, i.e. deposits that customers can withdraw immediately. Furthermore, 
+a distinction is made between the three measures M1, M2 and M3 in order to define the money supply. 
+See Mankiw /Taylor (2018), pp. 803 -808. Offenburg University of Applied Sciences
+The monetary system
+144 Prof. Dr. Sybille SchwarzThree measures for the money supply in the European Monetary Union
+See Mankiw /Taylor (2018), p. 808..Description Amount Dec. 2017 (billion €) Components
+M1 7,748 Daily deposits and
+cash in circulation
+M2 11,202 M1
++ Deposits with a notice period
+of up to three months
++ Deposits with a term of up to
+two years
+M3 11,863 M2
++ Securities repurchase agreements
++ Money market fund shares
++ Money market paper
++ Bonds up to
+two years Offenburg University of Applied Sciences
+The role of central banks
+145 Prof. Dr. Sybille SchwarzA central bank has the task of monitoring the banking system and controlling the money supply, 
+the amount of money available in an economy. Corresponding measures 
+are referred to as monetary policy. 
+The European System of Central Banks (ESCB) consists of the European 
+Central Bank (ECB) and the national central banks of the member states. The association 
+between the ECB and the central banks that implement a common monetary policy is 
+called the Eurosystem. 
+The primary task of the ECB is to ensure price stability (inflation rate 2%), 
+as well as supporting the general economic policy of the EU, conducting 
+foreign exchange transactions, managing currency reserves, securing payment systems and participating in the supervision of banks. 
+See Mankiw / Taylor (2018), pp. 809 -813. Offenburg University of Applied Sciences
+Monetary policy instruments of the central bank
+146 Prof. Dr. Sybille SchwarzThree instruments are mainly available:
+1.In open market transactions, securities are bought or sold by the central bank. The money supply is increased when fixed-interest securities are bought on the bond market. The money supply is reduced when securities owned by the central bank are sold on the open market.
+2.A refinancing rate is set at which the central bank is willing to provide liquidity in the short term. An increase in the refinancing rate increases the short-term procurement of liquidity, so that banks restrict their lending and the money supply is reduced.
+3.A change in the minimum reserve requirements sets the minimum amount of reserves that banks must hold on their deposits. An increase in the requirements reduces the money supply. See Mankiw / Taylor (2018), p. 810. Offenburg University of Applied Sciences
+Banks, the money supply and money creation
+147 Prof. Dr. Sybille SchwarzDeposits that banks receive but do not lend out are called reserves. If banks hold all of the deposits as reserves, the money supply does not change. However, if only a certain percentage of the deposits (reserve ratio) is held and the rest is given out as loans, the money supply increases through money creation. For example, if a bank receives a deposit of €100, keeps €10 as a reserve and lends out €90, the money supply has grown to €190: €100 in deposits plus €90 in cash held by the borrower. This flows to the second bank, which in turn lends out 90 percent of the deposits (€81) and holds 10 percent in reserves (€9). The process 
+repeats and the sum of newly created money will be € 
+1000 (100 + 90 + 81 + ...).
+
+The amount of money that banks create from each euro of original deposits is called the 
+money creation multiplier.
+
+See Mankiw /Taylor (2018), pp. 813 -818. Offenburg University of Applied Sciences
+The classical inflation theory
+148 Prof. Dr. Sybille SchwarzThe increase in the general price level is called inflation. The general price level adjusts to bring the money supply and money demand into balance. The money supply is controlled by the central bank. The money demand depends on the price level. A higher price level (lower money value) increases the amount of money demanded.
+
+According to the quantity theory of money (Milton Friedman, 1912 -2006), the existing amount of money determines the money value, and the growth of the money supply is the main cause of inflation. Changes in the money supply do affect nominal quantities that are expressed in monetary units, but not real quantities that are expressed in quantity units (neutrality of money).
+According to the Fisher effect (Irving Fischer, 1867-1947), an increase in the inflation rate leads to a corresponding increase in the nominal interest rate, but the real interest rate remains unchanged. See Mankiw/Taylor (2018), pp. 834-839. Offenburg University of Applied Sciences
+Monetary equilibrium
+149 Prof. Dr. Sybille SchwarzSee Mankiw /Taylor (2018), p. 837. Offenburg University of Applied Sciences
+Increase in the money supply
+150 Prof. Dr. Sybille SchwarzSee Mankiw /Taylor (2018), p. 838. Offenburg University of Applied Sciences
+Money circulation velocity and quantity equation 
+151 Prof. Dr. Sybille SchwarzThe money circulation velocity (V) measures the speed at which a euro changes hands in the 
+economy. The relationship between the money supply (M), the circulation velocity (V) and the nominal value of the goods produced (P x Y) is expressed by the 
+quantity equation: M x V = P x Y. It shows that an increase in the 
+money supply must be reflected in one of the three other quantities: either the 
+price level must rise, the production level must increase or the circulation velocity 
+decrease. 
+Example: In an economy, 100 pizzas are sold per year at a price of €10, 
+the money supply is €50. V = (10 € x 100)/ 50 € = 20. Since a total of 1000 € per year is spent on pizza with a money supply of only 50 €, each € must change hands on average 20 times per year. 
+See Mankiw /Taylor (2018), pp. 842 -846. Offenburg University of Applied Sciences
+Part 8: Questions for the self-test
+152 Prof. Dr. Sybille Schwarz1. The GDP is 5 trillion euros, tax revenues 1.5 trillion euros, private savings 0.5 trillion euros and public savings 0.2 trillion euros. Calculate the amount of 
+consumer spending, government spending, savings and investments.
+2. How does the central bank proceed when it wants to increase the money supply through open market operations?
+3. To what extent is inflation a type of tax?
+4. Hyperinflation (exceptionally high inflation rates) rarely occur in countries with a central bank that is independent of the government. What could be the reason for this?
+5. Suppose the money supply of an economy is 500 billion euros, the nominal GDP is 10 trillion euros and the real GDP is 5 trillion euros. What is the price level? What is the velocity of circulation of money? Offenburg University of Applied Sciences
+Part 8: Answers to the self-test
+153 Prof. Dr. Sybille Schwarz. Offenburg University of Applied Sciences
+Part 9: Economic fluctuations
+Key points:
+•Economic cycles
+•Economic models
+154 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Economic cycles
+155 Prof. Dr. Sybille SchwarzThe growth rate of GDP shows a sequence of highs and lows, of phases with rising and falling growth rates and even years of negative growth. At the peak of the economic development, economic activity reaches its peak and the level of production begins to fall. If overall economic development increases quickly, this is referred to as a boom; if the level of production falls, the economy shrinks. At the bottom, economic activity reaches its lowest point. Periods with shrinking incomes and rising unemployment are referred to as recessions; negative growth rates are referred to as depressions. Fluctuations in economic growth around a growth trend are referred to as the economic cycle. See Mankiw/Taylor (2018), pp. 907 -911. Offenburg University of Applied Sciences
+156Phases of the economic cycle
+Economic fluctuations are cyclical growth fluctuations around the growth trend, 
+where the increase in the domestic product is used as a measure. 
+The basic pattern of an economic cycle distinguishes four phases:
+1.Economic boom: high investment activity, price increases,
+2.Downturn: decline in demand, production and investment, 
+3.Crisis, trough: high unemployment, low capacity utilization, 
+4.Upswing: initially slow, then accelerating increase in production, 
+sales increase, unemployment decreases.
+In order to obtain information on economic development, leading indicators, 
+lagging indicators or presence indicators are recorded, which reflect future, past or 
+current economic development (e.g. ifo business climate index, 
+capacity utilization, price indices, range of order backlogs). Offenburg University of Applied Sciences
+Phases of an economic cycle
+157 Prof. Dr. Sybille Schwarz. Offenburg University of Applied Sciences
+Economic cycles as a deviation of GDP from the trend
+158 Prof. Dr. Sybille Schwarz. Offenburg University of Applied Sciences
+Economic models
+159 Prof. Dr. Sybille SchwarzEconomic models provide different explanations for economic cycles. 
+There are models that assume that markets are quickly cleared in the event of imbalances (flexible prices and wages) and return to equilibrium (New Classical Macroeconomics). 
+Other models assume that markets adapt only slowly, so that for a certain period of time the welfare of all those involved is not maximized (Keynesian models, 
+cf. John Maynard Keynes, 1883 -1946). 
+Schumpeter's explanation of the economic cycle (Joseph Schumpeter, 1883 -1950) distinguishes 
+between invention and innovation. While inventions occur evenly, innovations spread in cyclical fluctuations. "Pioneer entrepreneurs" are needed to test new inventions. Investment activity begins, leading to a boom phase, 
+the end of the upswing is reached when investment activity declines again. 
+See Mankiw /Taylor (2018), pp. 919 -927. Offenburg University of Applied Sciences
+Kondratieff cycles (theory of long waves)
+160 Prof. Dr. Sybille SchwarzIn 1926, the Russian economist Nikolai Kondratieff first described 
+economic fluctuations that occur in long waves of 40 to 60 years. 
+Schumpeter drew on these findings and determined that at the beginning of 
+every cycle there is a basic technical innovation that profoundly changes the economy, leads to increases in productivity, until the technical added value is exhausted 
+and an economic downturn occurs. 
+This "creative destruction" in the sense of a displacement of established technologies by 
+new innovations is, according to Schumpeter, the prerequisite for the start of a new 
+cycle. Shorter economic cycles move around the long waves, which can be influenced, for example, by monetary policy decisions or fiscal policy measures. The long waves, on the other hand, develop largely independently. Offenburg University of Applied Sciences
+161Important building blocks of Keynesian theory
+The starting point for Keynesian theory is the demand for goods, which determines production. According to Keynes, the price mechanism does not necessarily lead to stabilization, but requires economic policy measures to stimulate demand. Important building blocks for this are consumption and investments:
+Consumption: (consumption function: C = Ca+ cY) 
+Consumer spending is determined by current income (Y) and autonomous 
+consumer spending (Ca), which is independent of the level of income. 
+The marginal propensity to consume (c) indicates by how many euros households increase their 
+consumer spending when income increases by one euro. 
+Investments increase the capital stock and thus the production potential and 
+enable an increase in production, income and employment. According to Keynes, if the propensity to invest is weak, the state must stimulate overall demand (keyword: anti-cyclical fiscal policy, risk of a “crowding out” in the sense of a displacement effect). Offenburg University of Applied Sciences
+
+Anticyclical fiscal policy according to Keynes
+
+162 Prof. Dr. Sybille Schwarz. Offenburg University of Applied Sciences
+163The multiplier effect according to Keynes
+According to Keynes, a demand stimulus through an expansive fiscal policy increases income and thus consumption with the help of the multiplier effect.
+Argumentation:
+➢If the state increases spending, companies adjust their supply of goods to the additional demand.
+➢Production and income increase due to this stimulus effect.
+➢Households base their consumption on income.
+➢Accordingly, they demand more goods, which increases production and income again (process of consumption-induced income increase)
+See Mankiw/Taylor (2018), p. 938. Offenburg University of Applied Sciences
+164Exercise on the multiplier effect
+Assumption: Y = 100 + 0.75Y + 300 + 400; where YN = 3200, C = 100, I = 300, G = 400
+In period 1, government spending is increased by 100. What effect does this stimulating effect have
+according to Keynes in the next period and the period after that? Offenburg University of Applied Sciences
+Part 9: Questions for the self-test
+165 Prof. Dr. Sybille Schwarz1.Companies notice that their inventories have increased. How can this happen, how will companies react to it and what impact will this reaction have on the overall economic production level?
+2.Your roommate reads in the FAZ that the order intake index for German industry has increased significantly, but at the same time the unemployment rate has also increased. Is there a misprint?
+. Offenburg University of Applied Sciences
+Part 9: Answers to the self-test
+166 Prof. Dr. Sybille Schwarz. Offenburg University of Applied Sciences
+Part 10: Selected key topics
+Contents (optional):
+•Interdependence and trade advantages
+•Discussion of current economic topics and questions, e.g.
+Cryptocurrencies, climate policy…
+167 Prof. Dr. Sybille Schwarz Offenburg University of Applied Sciences
+Interdependence and trade advantages
+168 Prof. Dr. Sybille SchwarzInterdependence and trade are desirable because they enable a greater variety of goods. Trade increases the welfare of nations, even if one of the two countries can produce all products more cheaply. What is crucial are the different production cost ratios, not the absolute cost advantages and thus the specialization in the production of those goods that are produced with the lowest comparative costs (opportunity costs).
+Cf. Mankiw /Taylor (2018), pp. 579 -597. Offenburg University of Applied Sciences
+Trade restrictions
+169 Prof. Dr. Sybille SchwarzImport tariffs restrict trade. It is equivalent to a tax on goods produced abroad and thereby reduces the amount of imports. The tariff causes a loss of welfare. It does increase the price of goods achieved by domestic producers, who expand their production. At the same time, it increases the price for consumers, who reduce consumption.
+
+Import quotas limit the permitted import quantity. They also reduce the amount of imports, increase the domestic price of a good and the welfare of the producers.
+On the other hand, they reduce the welfare of consumers and lead to a net loss of welfare in the economy as a whole.
+
+There are also non-tariff trade barriers, e.g. strict norms and standards for imported products or bureaucratic obstacles.
+
+Trade restrictions are justified in various ways, e.g. with the employment argument, the security argument or the argument of unfair competition.
+See Mankiw / Taylor (2018), pp. 592 -604. Offenburg University of Applied Sciences
+Exchange rates
+170 Prof. Dr. Sybille SchwarzThe two most important international prices are the nominal and the real exchange rate.
+The nominal exchange rate is the ratio at which the currency of one country is exchanged for the currency of another country. The quantity quotation indicates, for example, the quantity of foreign currency units received for one unit of domestic currency. If, for example, fewer units of domestic currency are needed to buy one unit of foreign currency than before, this is referred to as an appreciation of the domestic currency.
+The real exchange rate is the ratio at which goods and services from one country are exchanged for those from another country. It measures the price of a domestic bundle of goods in relation to a foreign bundle of goods. For example, a devaluation of the domestic currency leads to a relative reduction in the price of domestic goods compared to foreign goods, which leads to an increase in net exports. 
+See Mankiw/Taylor (2018), pp. 869 -878. Offenburg University of Applied Sciences
+Cryptocurrencies
+171 Prof. Dr. Sybille SchwarzCryptocurrencies such as Bitcoin are designed as a means of payment and a payment system.
+Bitcoin is a system of transactions that are stored in a blockchain. A central role is played by the “miners”, who confirm the correctness of transactions,
+but also create Bitcoin units. There is a fixed supply function that cannot be deviated from, so that a maximum of 21 million Bitcoin can be created.
+Bitcoin is scarce, the Bitcoin price arises from the interaction of supply and
+demand. The Bitcoin supply is programmed. On the demand side there are
+private investors all over the world, and in some cases companies in the
+USA have already exchanged part of their cash balance from dollars to Bitcoin. Offenburg University of Applied Sciences
+Part 10: Questions for the self-test
+172 Prof. Dr. Sybille Schwarz1.If a Japanese car costs 500,000 yen and a comparable German car costs 10,000 euros and at the same time one euro is worth 100 yen, what are the nominal and real exchange rates?
+2.A can of beer costs 0.75 dollars in the USA and 0.60 euros in Germany. What is the nominal exchange rate? What effects would it have if an expansionary monetary policy in the USA led to the price of a can of beer doubling?
+. Offenburg University of Applied Sciences
+Part 10: Answers to the self-test
+173 Prof. Dr. Sybille Schwarz. 
